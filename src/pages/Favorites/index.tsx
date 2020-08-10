@@ -30,7 +30,7 @@ function Favorites(){
 
     return (
         <View  style={styles.container}>
-            <PageHeader title="Meus proffys favoritos" />
+            <PageHeader title="Meus proffys favóritos" />
        
 
         <ScrollView
